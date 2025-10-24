@@ -14,9 +14,9 @@ I work with **Firebase**, **Supabase**, and **MongoDB** to build scalable, secur
 - 📈 Constantly learning and improving my development skills  
 
 ### 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [LinkedIn](www.linkedin.com/in/muhammad-uzair-arain)  
 - [Portfolio](https://yourportfolio.com)  
-- [Email](mailto:youremail@example.com)
+- [Email](service.uzair@gmail.com)
 
 ---
 ⭐ *“Clean code, modern design, and great performance — that’s my development mantra.”*
